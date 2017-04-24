@@ -4,7 +4,8 @@ Additions to Blackboard to support large scale digital testing.
 
 In order to use this building block you require a license key. Contact nestorsupport@rug.nl for more information.
 
-## Documents
+## Links
+- [Download releases](https://github.com/rijksuniversiteit-groningen/b2-AssessmentTools/releases)
 - [Administrators Manual](AdministratorsManual.pdf)
 - [User Manual](UserManual.pdf)
 
