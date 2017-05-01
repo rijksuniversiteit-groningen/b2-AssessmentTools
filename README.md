@@ -11,6 +11,9 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3000.170501
+- Nieuw login mechanisme dat onafhankelijk werkt van gebruikte authenticatiemethode
+
 ### 3000.170418
 Scheduling:
 - XML export gemaakt tbv applicatietoetsen
