@@ -12,6 +12,11 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3000.171003.1
+- Change location of log out button
+- Introduce beta of new grading window
+- Introduce subquestions
+
 ### 3000.170531
 - Verberg foutmeldingen na mislukte inlogpoging 
 
