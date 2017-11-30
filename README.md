@@ -12,6 +12,25 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3000.171130
+(This is a pre-release)
+- Fix randomized answers multiple choice print, not randomizing the correct answer
+- Improve technical: Viewing an assessment folder as student
+- Fix do not review on folder level in combination with an essay assignment with sub items
+- Improve technical: Manage an assessment folder as instructor
+- Improve technical: Grading beta 
+- Introduce maximum score of 10000 in grading beta
+- Fix deletion of annotations corrupting the feedback in grading beta
+- Fix deletion of snippets in grading beta
+- Fix logout button was hidden after using do not review
+- Improve stability of saving in grading beta
+- Fix toolmenu staying open when switching attempts in grading beta
+- Fix formatting of content items in the assessment folder, fix the use of included images for instance
+- Introduce multi-property editor accessible from the assessment folder
+- Remove action "Manage Essay Assignments" from the grade center. The actions are now included in the edit menu of an essay assignment.
+- Improve technical: Retrieving the matrix in grading beta
+- Support course copy, import and export for essays with sub items
+
 ### 3000.171003.1
 - Change location of log out button
 - Introduce beta of new grading window
