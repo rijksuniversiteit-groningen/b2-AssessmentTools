@@ -12,6 +12,26 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3000.171208
+(This is a pre-release)
+- In manage folder as instructor fix link to Edit Test
+- Fix rendering of images to students in an assessment folder
+- Fix rendering of attached files to items in an assessment folder
+- Fix save indicator in grading beta
+- Improve technical: Student view / instructor manage of an assessment folder
+- Improve technical: XML export of scheduled exams
+- Improve technical: Scheduling of exams
+- Improve technical: Editting the properties of an assessment folder and the creation of a new assessment folder
+- No longer print content type image in print of submissions
+- Remove subquestions numbering in printing of submissions
+- Simplify printing of scored attempt
+- Improve handling of expiring sessions during grading beta
+- Improve Dutch texts 'Afsluiten' is now called 'Inleveren'
+- Improve the possibilty to give general feedback in grading beta
+- Optimize height of the header in grading beta
+- Show an incomplete total score in grading beta when not all sub items have been graded
+- Fix for exam environment under Blackcboard 2017.2
+
 ### 3000.171130
 (This is a pre-release)
 - Fix randomized answers multiple choice print, not randomizing the correct answer
