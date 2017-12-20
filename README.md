@@ -12,6 +12,24 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3000.171219
+(This is a pre-release)
+- Clearing a snippet title made the snippet manager non functional
+- Fix layout of annotations in review screen, annotations and student answer are displayed side by side.
+- Fix height of navigation buttons
+- Fix pressing F5 on the matrix view
+- case 237574 Total score is not updated when switching assignment in grading beta
+- case 237572 Sort students on name while grading not anonymously
+- Round student score to two fraction digits when printing results
+- nicer save button and go back to folder after saving in the property editor
+- case 237569 Remove column distinct values in property editor
+- case 237569 Show new ip restrictions instead of existing after editting folder
+- case 237214 Question set should be treated as random block when printing a test
+- case 236776 Enter in feedback possible by pressing shift-enter
+- Improve technical: Exam restrictions checking (IP checking)
+- Improve technical: Downloading submissions and downloading essay submissions 
+
+
 ### 3000.171208
 (This is a pre-release)
 - In manage folder as instructor fix link to Edit Test
