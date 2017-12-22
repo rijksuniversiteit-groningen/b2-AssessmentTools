@@ -12,6 +12,15 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3000.171222
+(This is a pre-release)
+- Fix archiving/restoring essay assignments with sub questions
+- Sort users in grading case insensitive
+- Fix error when formatting fractional scores in submission print
+- Change text wrapping in feedback balloons
+- Fix width of feedback balloons
+- Removed beta indicator for the new grading interface
+
 ### 3000.171219
 (This is a pre-release)
 - Clearing a snippet title made the snippet manager non functional
