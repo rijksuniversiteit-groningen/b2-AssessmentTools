@@ -12,6 +12,9 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3000.180102
+- Fix line height of annotations on the review page
+
 ### 3000.171222
 (This is a pre-release)
 - Fix archiving/restoring essay assignments with sub questions
@@ -24,7 +27,7 @@ In order to use this building block you require a license key. Contact nestorsup
 ### 3000.171219
 (This is a pre-release)
 - Clearing a snippet title made the snippet manager non functional
-- Fix layout of annotations in review screen, annotations and student answer are displayed side by side.
+- Fix layout of annotations in review screen, annotations and student answer are displayed side by side
 - Fix height of navigation buttons
 - Fix pressing F5 on the matrix view
 - case 237574 Total score is not updated when switching assignment in grading beta
