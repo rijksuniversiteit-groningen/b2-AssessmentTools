@@ -12,6 +12,9 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3000.180102.2
+- Fix reordering of items in an assessment folder
+
 ### 3000.180102
 - Fix line height of annotations on the review page
 
