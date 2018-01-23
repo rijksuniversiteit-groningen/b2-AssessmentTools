@@ -12,6 +12,22 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3000.180123
+- Review page no longer shows 'undefined' when an attempt has not been graded
+- Remove legacy frame based examination environment
+- The version of the building block no longer install on Blackboard running other versions than 2016.4
+- case 238223 Tool buttons of a feedback balloon no longer overlaps other balloons
+- case 238166 No longer possible to create an invalid feedback snippet which corrupts the snippet manager
+- case 238673 Fix using a tool button in grading and then refreshing the page breaks the grading application
+- Improve technical: Editing or adding an essay assignment
+- Leaving a sub item of an essay assignment empty no longer removes the sub item
+- Remove old grading method
+- Fix link to "Edit the Test" of a Blackboard test in the assessment folder
+- Fix broken essay attempts after archive/restore of a course
+- (beta) Track of exam related events
+- case 238696 Fix rendering bold texts in internet explorer
+- Show error when using a copied essay assignment when the grade center was not copied 
+
 ### 3000.180102.2
 - Fix reordering of items in an assessment folder
 
