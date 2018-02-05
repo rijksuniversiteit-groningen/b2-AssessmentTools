@@ -12,6 +12,9 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3000.180124
+- Fix error viewing folder in Assessment Tools 3000.180123
+
 ### 3000.180123
 - Review page no longer shows 'undefined' when an attempt has not been graded
 - Remove legacy frame based examination environment
