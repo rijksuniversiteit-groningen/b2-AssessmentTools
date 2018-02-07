@@ -13,12 +13,12 @@ In order to use this building block you require a license key. Contact nestorsup
 ## Release Notes
 
 ### 3000.180207
-case 242150 Prevent grading attempts marked as 'do not review'
-Fixed 'The do not review' option for newly created essay assignments
-case 242046 Grading: Fixed Next/Previous button after entering score
-case 235200 Grading: Confirm screen closing grading if changes are not saved
-case 235200 Grading: Keep save indicator visible to prevent distraction
-case 241926 Question text of an essay assignment can be left blank
+- case 242150 Prevent grading attempts marked as 'do not review'
+- Fixed 'The do not review' option for newly created essay assignments
+- case 242046 Grading: Fixed Next/Previous button after entering score
+- case 235200 Grading: Confirm screen closing grading if changes are not saved
+- case 235200 Grading: Keep save indicator visible to prevent distraction
+- case 241926 Question text of an essay assignment can be left blank
 
 ### 3000.180124
 - Fix error viewing folder in Assessment Tools 3000.180123
