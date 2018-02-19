@@ -12,6 +12,11 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3000.180219
+- Grading: Fix styling of feedback picker
+- Fix error when finishing grading using the grade button in an essay assignment
+- Remove remainders of old review page of an essay assignment
+
 ### 3000.180207
 - case 242150 Prevent grading attempts marked as 'do not review'
 - Fixed 'The do not review' option for newly created essay assignments
