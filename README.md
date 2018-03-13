@@ -12,6 +12,14 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3000.180313
+(This is a pre-release)
+- Print annotated feedback in submissions print of an essay assignment
+- Improvement laying out subscores on review page
+- case 242570 Can load a feedback snippet from the library in an existing annotation balloon
+- Change access check on the viewing and managing pages of an assessment folder: should be analogue to Blackboard's check on listContent and listContentEditable. Takes into account privilege 'view unavailable course'.
+- Skip IP check if user has 'view unavailable course' privilege
+
 ### 3000.180219
 - Grading: Fix styling of feedback picker
 - Fix error when finishing grading using the grade button in an essay assignment
