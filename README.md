@@ -18,7 +18,8 @@ In order to use this building block you require a license key. Contact nestorsup
 - Improvement laying out subscores on review page
 - case 242570 Can load a feedback snippet from the library in an existing annotation balloon
 - Change access check on the viewing and managing pages of an assessment folder: should be analogue to Blackboard's check on listContent and listContentEditable. Takes into account privilege 'view unavailable course'.
-- Skip IP check if user has 'view unavailable course' privilege
+- Skip IP check if user has 'view unavailable course' privilege.
+- Parse possible points of an essay assignment in the current locale: use , in dutch and . in english.
 
 ### 3000.180219
 - Grading: Fix styling of feedback picker
