@@ -12,6 +12,12 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3000.180316
+(This is a pre-release)
+- case 242572 Optimize spacing in grading
+- Use default max points of 1 when switching back from an essay assignment with sub items to a regular one
+- Fix configuring max points essay assignment on an essay assignment without sub items
+
 ### 3000.180314
 (This is a pre-release)
 - Print annotated feedback in submissions print of an essay assignment
