@@ -11,6 +11,10 @@ In order to use this building block you require a license key. Contact nestorsup
 - [User Manual](UserManual.pdf)
 
 ## Release Notes
+### 3000.180320
+(This is a pre-release)
+- Disallow copying essay assignments using course copy when 'Gradecenter' was deselected
+- Button to download scores and subscores as an Excel sheet.
 
 ### 3000.180316
 (This is a pre-release)
