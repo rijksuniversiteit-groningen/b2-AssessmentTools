@@ -12,6 +12,16 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3200.180405
+(This is a pre-release)
+- case 244231 Fix layout of buttons (logout and homepage) in the header exam environment
+- Fix Excel download of scores in an Assessment Folder
+- Improve validation message for invalid points of essay assignments
+- Fix pressing enter/space when creating a new snippet from the snippet library 
+- New print template for essay assignment submissions
+- Improve texts
+- Align snippets in the snippet picker to the left
+
 ### 3000.180323
 (This is a pre-release)
 - Fix printing essay assignment submissions with subitems
