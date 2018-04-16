@@ -12,6 +12,11 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3200.180416
+- Minor text improvement
+- Changed column headers in score excel export
+- Fix layout issue essay assignments during submit
+
 ### 3200.180405
 (This is a pre-release)
 - case 244231 Fix layout of buttons (logout and homepage) in the header exam environment
