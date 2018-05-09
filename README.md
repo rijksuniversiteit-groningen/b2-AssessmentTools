@@ -12,6 +12,12 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3200.180509
+- issue #22 Fix submission print of students which do not have feedback
+- Hide viewToggle of edit essay assignment when creating new essay assignment
+- Some textual improvements
+- Support SVG icon set
+
 ### 3200.180416
 - Minor text improvement
 - Changed column headers in score excel export
