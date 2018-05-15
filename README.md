@@ -12,6 +12,9 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3200.180511
+- Fix Property 'hasEssayAssignments' not found on type nl.rug.blackboard.assessment.data.folder.viewFolder.ViewFolderModel
+
 ### 3200.180509
 - issue #22 Fix submission print of students which do not have feedback
 - Hide viewToggle of edit essay assignment when creating new essay assignment
