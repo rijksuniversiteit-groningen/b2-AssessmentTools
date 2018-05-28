@@ -12,6 +12,18 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3200.180525
+- Allow instructors to copy part of the student answer during grading
+- Technical improved essay assignment
+- Fix displaying math symbols during grading
+- Save indicator at grading takes less space
+- Instructor can clear attempts of essay assignments
+- Generalize manage attempts in assessment folder, it is also available for Blackboard tests
+- Manage attempts is reachable by clicking the attempt count
+- Default action when edit mode is enabled in an assessment folder is edit
+- View assessment folder can be used without being enrolled in the course, when user has sufficient privileges
+- An alternative IP address can be registered, for when a remote virtual PC environment is used
+
 ### 3200.180511
 - Fix Property 'hasEssayAssignments' not found on type nl.rug.blackboard.assessment.data.folder.viewFolder.ViewFolderModel
 
