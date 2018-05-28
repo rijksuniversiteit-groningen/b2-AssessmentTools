@@ -13,6 +13,7 @@ In order to use this building block you require a license key. Contact nestorsup
 ## Release Notes
 
 ### 3200.180525
+(This is a pre-release)
 - Allow instructors to copy part of the student answer during grading
 - Technical improved essay assignment
 - Fix displaying math symbols during grading
