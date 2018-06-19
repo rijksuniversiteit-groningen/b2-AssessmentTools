@@ -12,6 +12,12 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+
+### 3200.180619
+(This is a pre-release)
+- Assessment Folder: Show warning for essay assignments without grade center column
+- Grading: Speed up loading of the matrix 
+
 ### 3200.180525
 (This is a pre-release)
 - Allow instructors to copy part of the student answer during grading
