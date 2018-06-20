@@ -12,6 +12,8 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3200.180620
+- Fix editing essay assignment when there are attempts of unenrolled users (introduced in 3200.180619) 
 
 ### 3200.180619
 (This is a pre-release)
