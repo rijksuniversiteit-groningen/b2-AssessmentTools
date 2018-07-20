@@ -12,7 +12,16 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3200.180720
+(This is a pre-release)
+-  Show student location in attempt overview
+- \#28 Default folder action changed to view
+- \#26 Fix manage essay attempts when there are attempts of unenrolled users (introduced in 3200.180619)  
+- \#29 Copy attachment in visual text box editors of essay assignments
+- Fix error downloading scores
+
 ### 3200.180620
+(This is a pre-release)
 - Fix editing essay assignment when there are attempts of unenrolled users (introduced in 3200.180619) 
 
 ### 3200.180619
