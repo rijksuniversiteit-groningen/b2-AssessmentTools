@@ -12,9 +12,19 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+
+### 3200.180720.2
+(This is a pre-release)
+- Fix reordering of essay assignments
+- Fix adding sub-items to an essay assignment
+- \#32 Fix copying of sub questions, fixes rijksuniversiteit-groningen/b2-AssessmentTools
+- \#31 Re-enable toggle options (View, Edit, Manage) when viewing an essay assignment 
+- Add total column to Excel export and more distinguished layout
+- Fix adding subitems to an essay assignment
+
 ### 3200.180720
 (This is a pre-release)
--  Show student location in attempt overview
+- Show student location in attempt overview
 - \#28 Default folder action changed to view
 - \#26 Fix manage essay attempts when there are attempts of unenrolled users (introduced in 3200.180619)  
 - \#29 Copy attachment in visual text box editors of essay assignments
