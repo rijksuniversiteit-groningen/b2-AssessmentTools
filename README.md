@@ -12,6 +12,8 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3200.180720.3
+- Fix sorting of users in the matrix during grading
 
 ### 3200.180720.2
 (This is a pre-release)
