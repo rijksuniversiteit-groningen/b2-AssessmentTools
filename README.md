@@ -16,6 +16,7 @@ In order to use this building block you require a license key. Contact nestorsup
 - Sort users in the matrix during grading case insensitive  
 
 ### 3200.180720.3
+(This is a pre-release)
 - Fix sorting of users in the matrix during grading
 
 ### 3200.180720.2
