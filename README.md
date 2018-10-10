@@ -1,4 +1,4 @@
-# Assessment Tools 
+# Assessment Tools
 
 Additions to Blackboard to support large scale digital testing.
 
@@ -12,11 +12,13 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3200.180720.5 
+- Add help pop up in exam environment
+
 ### 3200.180720.4
 - Sort users in the matrix during grading case insensitive  
 
 ### 3200.180720.3
-(This is a pre-release)
 - Fix sorting of users in the matrix during grading
 
 ### 3200.180720.2
