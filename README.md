@@ -12,6 +12,12 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3400.180720.7
+- Changes required to make compatible with Blackboard 2018.2
+  - Points migrated to BigDecimal
+  - Fix hiding course menu in exam environment
+  - Fix annotations been rendered differently 
+
 ### 3200.180720.6
 - Fix error when performing do not review at the folder level, when there are finalized essays present. Instead apply do not review at those items.
 - Fix layout help pop up in the exam environment
