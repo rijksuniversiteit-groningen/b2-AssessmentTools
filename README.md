@@ -12,10 +12,12 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3400.180720.9
+- Improve formatting of points: format whole points as 10 instead of 10.00
+
 ### 3400.180720.8
 - Fix showing a zero for ungraded regular essay assignment on the grading page
-- Fix showing NaN for ungraded essays in the matrix
- 
+- Fix showing NaN for ungraded essays in the matrix 
 
 ### 3400.180720.7
 - Changes required to make compatible with Blackboard 2018.2
