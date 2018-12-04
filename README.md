@@ -12,6 +12,20 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3400.181204 
+(This is a pre-release)
+- Improve look and feel of essay assignment grading
+- Add clickable overview of graded and ungraded attempts in instructor view of an assessment folder
+- Fix not being able to create menu item of an assessment folder
+- Improve technical: (auto)saving of essay assignment
+- Improve technical: Logging of building block, can now use an Elastic server
+- Improve technical: The way texts and their dutch translations are handled
+- Remove unused webservices for data integration
+- Minor layout improvement: Add separators in assessment folder context menu 
+- Add option in submission print to print example answer
+- Improve printing layout
+- Improve wording in essay assignment settings "Show assignment details in review" -> "Show question in review"
+ 
 ### 3400.180720.9
 - Improve formatting of points: format whole points as 10 instead of 10.00
 
@@ -29,6 +43,7 @@ In order to use this building block you require a license key. Contact nestorsup
 - Fix error when performing do not review at the folder level, when there are finalized essays present. Instead apply do not review at those items.
 - Fix layout help pop up in the exam environment
 
+
 ### 3200.180720.5 
 - Add help pop up in exam environment
 
@@ -36,6 +51,7 @@ In order to use this building block you require a license key. Contact nestorsup
 - Sort users in the matrix during grading case insensitive  
 
 ### 3200.180720.3
+(This is a pre-release)
 - Fix sorting of users in the matrix during grading
 
 ### 3200.180720.2
