@@ -12,7 +12,8 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
-
+### 3400.180720.11
+- Fix grading decimal scores when the Dutch language is used
 
 ### 3400.181204 
 (This is a pre-release)
