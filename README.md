@@ -12,8 +12,22 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3400.190307
+(This is a pre-release)
+- Change essay icon
+- Add a feature to grade unique answers
+
+### 3400.190207
+(This is a pre-release)
+- Improve XSRF security 
+- Enable Assessment Folder functionality in a normal folder
+- Introduce user log to diagnose student claims
+- Generalized printing. Single print for both submissions and definitions
+
+
 ### 3400.180720.11
 - Fix grading decimal scores when the Dutch language is used
+
 
 ### 3400.181204 
 (This is a pre-release)
@@ -49,6 +63,7 @@ In order to use this building block you require a license key. Contact nestorsup
 - Fix error when performing do not review at the folder level, when there are finalized essays present. Instead apply do not review at those items.
 - Fix layout help pop up in the exam environment
 
+
 ### 3200.180720.5 
 - Add help pop up in exam environment
 
@@ -56,6 +71,7 @@ In order to use this building block you require a license key. Contact nestorsup
 - Sort users in the matrix during grading case insensitive  
 
 ### 3200.180720.3
+(This is a pre-release)
 - Fix sorting of users in the matrix during grading
 
 ### 3200.180720.2
