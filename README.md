@@ -12,6 +12,15 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3400.190419
+(This is a pre-release)
+* Grading: Change marker user interface
+* Add facilities to archive exams to PDF by an external system
+* Grading: Improve layout
+* Grading: Help button opens in new tab
+* Grading: Disable tooltips for internet explorer
+
+
 ### 3400.190307
 (This is a pre-release)
 - Change essay icon
