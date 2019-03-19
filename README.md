@@ -12,7 +12,13 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
-### 3400.190419
+### 3400.190319
+* (This is a pre-release) 
+* Add button to create another essay assignment when creating an essay assigment
+* Add Do Not Reviews in score download
+* Grading: Fix bug when entering text in a feedback balloon
+
+### 3400.190318
 (This is a pre-release)
 * Grading: Change marker user interface
 * Add facilities to archive exams to PDF by an external system
