@@ -12,6 +12,11 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3400.190320.2
+(This is a pre-release) 
+* Fix printing jumbled sentence submission if one of the option was left blank
+* Print instructions of a Blackboard test
+
 ### 3400.190320
 (This is a pre-release) 
 * Can change feedback settings of Blackboard tests using "Properties" button
