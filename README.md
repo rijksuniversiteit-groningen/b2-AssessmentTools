@@ -12,8 +12,13 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3400.190320
+(This is a pre-release) 
+* Can change feedback settings of Blackboard tests using "Properties" button
+* Fix several bugs in printing: Missing possible points for tests, example answer essay, print match options in matching questions, use unnumbered lists for jumbled sentence / order question
+
 ### 3400.190319
-* (This is a pre-release) 
+(This is a pre-release) 
 * Add button to create another essay assignment when creating an essay assigment
 * Add Do Not Reviews in score download
 * Grading: Fix bug when entering text in a feedback balloon
