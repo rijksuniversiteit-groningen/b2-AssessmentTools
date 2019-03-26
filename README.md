@@ -12,6 +12,13 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3400.190326.0
+* Fix blocking guest access for non-Blackboard tests
+* Fix recall action after editing folder settings
+* Fix page listing building block's log page
+* Fix printing of content items
+* Fix printing the general question text for essay assignments with sub questions 
+
 ### 3400.190320.2
 * Fix printing jumbled sentence submission if one of the option was left blank
 * Print instructions of a Blackboard test
