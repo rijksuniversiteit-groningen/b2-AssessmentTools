@@ -12,6 +12,9 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3400.190329.0
+* Only enforce exam access to content items if they are inside an assessment folder. This fixes WorkflowTool / Scorion being denied access.
+
 ### 3400.190326.0
 * Fix blocking guest access for non-Blackboard tests
 * Fix recall action after editing folder settings
