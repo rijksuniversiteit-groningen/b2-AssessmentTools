@@ -12,6 +12,10 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+
+### 3400.190403.0
+* Temporary disable grade short answers
+
 ### 3400.190329.0
 * Only enforce exam access to content items if they are inside an assessment folder. This fixes WorkflowTool / Scorion being denied access.
 
