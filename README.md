@@ -13,6 +13,22 @@ In order to use this building block you require a license key. Contact nestorsup
 ## Release Notes
 
 
+## 3400.19????
+* Grading: Fix loaded snippets not being saved
+* Print: Fix shuffling of options of multiple choice and multiple answer questions
+* Change technical: For SSO from the virtual exam environment the IP is also hashed
+* Fix student preview mode in assessment folder / essay assignment
+* Grading: Show indicator for attempts marked as 'do not review'
+* Fix the attempt count shown in the assessment folder, attempts of disabled users are not counted
+* Fix finishing Blackboard assessments form the manage attempt page
+* Fix incorrect autosave when the full screen editor is opened
+* Print: Fix formatting of the options of a matching question 
+* Add tooling for taking presence on an external device
+* Grading: Grade by answer is accessible from the general grading settings
+* Show number of enrolled students in today's exams
+* Print: Fix printing of question sets
+* Can add Short Answer Method item to an assessment folder
+
 ### 3400.190403.0
 * Temporary disable grade short answers
 
