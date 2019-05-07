@@ -13,7 +13,10 @@ In order to use this building block you require a license key. Contact nestorsup
 ## Release Notes
 
 
-## 3400.19????
+### 3400.190507 
+* Grading: Fix accessing grading
+
+### 3400.190502
 * Grading: Fix loaded snippets not being saved
 * Print: Fix shuffling of options of multiple choice and multiple answer questions
 * Change technical: For SSO from the virtual exam environment the IP is also hashed
