@@ -12,6 +12,10 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3400.190521
+* Fix downloading attempts if unenrolled users are present in the course
+* Change text of save button in grade unique answers
+* Fix time in save indicator in grade unique answers
 
 ### 3400.190507 
 * Grading: Fix accessing grading
