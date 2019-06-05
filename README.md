@@ -12,6 +12,14 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+
+### 3400.190605
+* Fix the "open in new window" property on the property edit page
+* Don't show exam selection errors of exams where user is not enrolled
+* Fix finalizing attempts of Blackboard tests
+* Make the default height of the editor configurable
+* Improve presence taking tool
+
 ### 3400.190521
 * Fix downloading attempts if unenrolled users are present in the course
 * Change text of save button in grade unique answers
