@@ -13,11 +13,12 @@ In order to use this building block you require a license key. Contact nestorsup
 ## Release Notes
 
 
-### 3400.190718
+### 3400.190718.2
 (This is a pre release)
 * Admin user require to apply for a pass before accessing an exam course (works on courses with prefix EXAM- or EXAM-KOPIE-)
 * When scheduling an exam a lean exam environment can be selected, which does not sacrifice student screen space for a photo. Presence tool app can be used to view photo's on a tablet.
 * (Experimental) Introduce a new text editor, should be more stable than Blackboard default editor. 
+* Use more stylish colors for attempt status
 
 ### 3400.190605
 * Fix the "open in new window" property on the property edit page
