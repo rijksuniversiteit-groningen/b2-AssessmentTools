@@ -13,12 +13,21 @@ In order to use this building block you require a license key. Contact nestorsup
 ## Release Notes
 
 
+### 3400.190718
+(This is a pre release)
+* Admin user require to apply for a pass before accessing an exam course (works on courses with prefix EXAM- or EXAM-KOPIE-)
+* When scheduling an exam a lean exam environment can be selected, which does not sacrifice student screen space for a photo. Presence tool app can be used to view photo's on a tablet.
+* (Experimental) Introduce a new text editor, should be more stable than Blackboard default editor. 
+
 ### 3400.190605
 * Fix the "open in new window" property on the property edit page
 * Don't show exam selection errors of exams where user is not enrolled
 * Fix finalizing attempts of Blackboard tests
 * Make the default height of the editor configurable
 * Improve presence taking tool
+* Include number of exam enrollments in scheduling
+* Fix validation of points possible when using the Dutch language pack, the minimum points on a question is reduced to 0.1
+* Show do not review status in essay submission print
 
 ### 3400.190521
 * Fix downloading attempts if unenrolled users are present in the course
