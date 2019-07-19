@@ -12,6 +12,12 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3400.190719.0
+* Restrict a class of admin users to exam courses (course id starting with EXAM- or KOPIE-EXAM-)
+* Alter the way words are counted in the word counter. The word count used in the basic editor matches the word count of other places.
+* Basic Editor: Improve error handling and error recovering (auto)saving
+* Possibility to restrict exam access for admin users based on user's location
+* Editor type can be changed using the property editor
 
 ### 3400.190718.2
 (This is a pre release)
