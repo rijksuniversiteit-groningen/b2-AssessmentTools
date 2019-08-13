@@ -12,6 +12,11 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+
+### 3400.190813
+* Make compatible with 3500 release of Blackboard
+* Fix 'Delivery Type' property setting 
+
 ### 3400.190719.0
 * Restrict a class of admin users to exam courses (course id starting with EXAM- or KOPIE-EXAM-)
 * Alter the way words are counted in the word counter. The word count used in the basic editor matches the word count of other places.
