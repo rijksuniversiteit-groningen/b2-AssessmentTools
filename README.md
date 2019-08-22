@@ -13,6 +13,9 @@ In order to use this building block you require a license key. Contact nestorsup
 ## Release Notes
 
 
+### 3400.190822
+* UI elements of basic editor is more distinguished
+
 ### 3400.190813
 * Make compatible with 3500 release of Blackboard
 * Fix 'Delivery Type' property setting 
