@@ -13,6 +13,10 @@ In order to use this building block you require a license key. Contact nestorsup
 ## Release Notes
 
 
+### 3400.190911
+* Fix basic editor in Internet Explorer
+* Add a dashboard which generates alarms if Nestorsupport performs suspicious actions
+
 ### 3400.190822
 * UI elements of basic editor is more distinguished
 
