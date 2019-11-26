@@ -13,6 +13,11 @@ In order to use this building block you require a license key. Contact nestorsup
 ## Release Notes
 
 
+### 3400.191126
+* Add automation for closing exam
+* Add automation for creating a review
+* Tweak security measures for support users
+
 ### 3400.190911
 * Fix basic editor in Internet Explorer
 * Add a dashboard which generates alarms if Nestorsupport performs suspicious actions
