@@ -13,6 +13,9 @@ In order to use this building block you require a license key. Contact nestorsup
 ## Release Notes
 
 
+### 3400.191210
+* Change required privileges to delete log files
+
 ### 3400.191126
 * Add automation for closing exam
 * Add automation for creating a review
