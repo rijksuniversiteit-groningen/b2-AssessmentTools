@@ -12,6 +12,12 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3400.200207
+* Copying an exam in close exam now deals with the case that the destination exam course already exists.
+* Fix new lines in the basic editor
+* Fix bullets in the question text when using the basic editor
+* Fix exception when using an essay assignment with empty titles for sub questions
+* Translate the submission page for an essay assignment when the basic editor is used to Dutch.
 
 ### 3400.191210
 * Change required privileges to delete log files
