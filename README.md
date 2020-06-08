@@ -12,6 +12,24 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3800.200608.2
+* Improve layout for smaller screens
+* Add warning when submitting an essay assignment when not all sub items are answered.
+* Feature to download submissions suitable for plagiarism scan in Ephorus
+* All adaptive release rules on items will be deleted when setting up a review
+* Can define a question flow in an assessment folder
+* Disable tooltips in Firefox in grading
+* Fix sorting of students in grading when shuffled option is selected 
+* Only count student enrollments in scheduled exams page
+* Feedback is now included in score download
+* Add option in properties to randomize options for all questions in a Blackboard test 
+* Privilege for closing an exam can also be assigned to the instructor course role
+* Advanced adaptive release can be reached from the context menu after the title in the folder view
+* Add Ephorus assignment as possible item to add to an asssessment folder
+* Fix score download when question sets are used
+* Several improvements for automatic archiving exams
+* Add an administrator view for viewing the progress of a single user in an exam 
+
 ### 3400.200207
 * Copying an exam in close exam now deals with the case that the destination exam course already exists.
 * Fix new lines in the basic editor
