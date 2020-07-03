@@ -12,6 +12,34 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3800.200703.0
+* Fix XML export scheduled exams
+* Distinguish edit and create for question groups
+* Fix printing of images in essay submissions
+
+### 3800.200622.0
+* Include content collection in the archive which is made at setting up a review
+* Fix the selection of viewing the student answer for essay assignments when setting up a review
+* Fix showing white page instead of error page
+* Fallback for large submissions, if blackboard cannot process a submission it will be saved without formatting
+
+### 3800.200617.2
+* Fix access for essay assignment and assessment folder when using a course duration
+* Fix the functioning of question flow
+* Fix creation of new assessment folders
+
+
+### 3800.200612
+* Enable more feedback options when setting up a review on a Blackboard test
+* Fix zipping crashes because of duplicate file names while downloading submissings
+* Create a course archive when setting up a review (#1414)
+* New property screen which allows easily changing many properties at the same time
+* Add feature switch for announcement polling
+* Revert check on empty essay submission at finish all button
+* Fix getting the "last" attempt of a grade in question flow
+* Fix export of question flow, ids should also be mapped in the exporter
+* Show a notification when a new announcement is posted during an exam. Can show announcements in assessment folder (#1406)
+
 ### 3800.200608.2
 * Improve layout for smaller screens
 * Add warning when submitting an essay assignment when not all sub items are answered.
