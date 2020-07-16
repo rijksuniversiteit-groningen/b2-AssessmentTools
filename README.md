@@ -12,6 +12,13 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3800.200716.0
+* Implement extra properties for score and max points
+* Add option to reset do not review
+* Add view folder submissions, shows an overview of all submissions done in the folder
+* Improve display of user events page
+* New context menu option to open an exam in an assessment folder
+
 ### 3800.200703.0
 * Fix XML export scheduled exams
 * Distinguish edit and create for question groups
