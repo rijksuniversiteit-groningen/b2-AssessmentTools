@@ -16,9 +16,9 @@ In order to use this building block you require a license key. Contact nestorsup
 ### 3800.20804.2
 * Fix permissions to change attempt status
 * Display linear or random mode of a question flow 
-IOS-114 (AssessmentTools) Add download buttons in manage submissions page
-IOS-177 (AssessmentTools) Add Open Exam Options Screen
-IOS-150 (AssessmentTools) Apply max image size
+* IOS-114 (AssessmentTools) Add download buttons in manage submissions page
+* IOS-177 (AssessmentTools) Add Open Exam Options Screen
+* IOS-150 (AssessmentTools) Apply max image size
 
 ### 3800.200716.0
 * Implement extra properties for score and max points
