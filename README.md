@@ -12,8 +12,14 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3800.200825.0
+* Fix url of viewing attempt from student folder
+* Fix viewing submission page when there are no content items in the folder
+* Fix downloading scores from the manage attempts page
+* Show "This item is invisible to students" for unavailable content items in an assessment folder
+* Add option to enable My Grades tool in set up review
 
-### 3800.20804.2
+### 3800.200804.2
 * Fix permissions to change attempt status
 * Display linear or random mode of a question flow 
 * IOS-114 (AssessmentTools) Add download buttons in manage submissions page
