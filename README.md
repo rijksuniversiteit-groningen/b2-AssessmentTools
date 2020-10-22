@@ -12,6 +12,21 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3800.201022.0
+* No longer auto size columns, required font library is missing
+* IOS-332 - Show locations in SubmissionOverview 
+* Improve access error messages
+* Introduce wait page which will be shown if students enter an exam early
+* Mask External IP if not admin
+* IOS-329 Fix several problems with disabled users
+
+### 3800.200924.0
+* IOS-290 More robust annotations restoring, disable google translate 
+
+### 3800.200904.0
+* IOS-250 Access check derives course_id from the content supplied by the content_id parameter, fixes Urkund assignments in assessment folder
+* IOS-242 Fix linear order to be in folder order instead of alphabetically on group name
+
 ### 3800.200825.0
 * Fix url of viewing attempt from student folder
 * Fix viewing submission page when there are no content items in the folder
@@ -22,9 +37,9 @@ In order to use this building block you require a license key. Contact nestorsup
 ### 3800.200804.2
 * Fix permissions to change attempt status
 * Display linear or random mode of a question flow 
-* IOS-114 (AssessmentTools) Add download buttons in manage submissions page
-* IOS-177 (AssessmentTools) Add Open Exam Options Screen
-* IOS-150 (AssessmentTools) Apply max image size
+* IOS-114 Add download buttons in manage submissions page
+* IOS-177 Add Open Exam Options Screen
+* IOS-150 Apply max image size
 
 ### 3800.200716.0
 * Implement extra properties for score and max points
