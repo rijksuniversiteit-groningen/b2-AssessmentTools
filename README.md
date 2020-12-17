@@ -12,6 +12,26 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3800.201216.0
+* IOS-363 Add an info block summarizing the most important settings to the assessment folder
+* IOS-412 Support student pledge
+* IOS-437 Clear ip restrictions during review
+
+### 3800.201203.0
+* IOS-324 Updating sorting of exams in scheduled exams overview
+* Add backups to course archive
+
+### 3800.201117.0	
+* Question Flow: Add mode to show all questions at all times
+* Add safety measures to make sure students make all sub questions of an essay assignment
+* Fix setting total score when changing sub scores using the property button
+* Improve wordcounter, discrepancies occurred while counting <, > and & characters
+* Prevent an error at accessing a question flow exam as admin without an enrollment
+* Improve the UI of question flow
+* Improve ordering of a question flow, concurrency issues could sometimes lead to students getting too many questions
+* Replace Ephorus with Urkund
+
+
 ### 3800.201022.0
 * No longer auto size columns, required font library is missing
 * IOS-332 - Show locations in SubmissionOverview 
