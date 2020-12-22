@@ -12,6 +12,9 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3800.201222.0
+* IOS-425 Show announcement like notification for course messages received from instructors
+
 ### 3800.201216.0
 * IOS-363 Add an info block summarizing the most important settings to the assessment folder
 * IOS-412 Support student pledge
