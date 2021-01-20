@@ -12,6 +12,15 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3800.210120.0
+* Make the different settings in the info block clickable, improve spacing and introduce colored parentheses
+* Input fields can be added to the pledge
+* add overview to review submitted pledges
+* Question flow groups should be unavailable, to prevent students seeing each other
+* Info block should show latest end time instead of earliest
+* Add possibility to reopen blackboard tests
+* Supporters can use preview user in exams, if they are not enrolled with the associated s-account
+
 ### 3800.201222.0
 * IOS-425 Show announcement like notification for course messages received from instructors
 
