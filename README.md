@@ -12,6 +12,17 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+
+
+### 3800.210202.0
+* Show time of pledge
+* Brighter colors for parentheses in info block
+* Info block folder unavailable should go to folder settings
+* Only save username to backup if a revert action was executed, save username of the administrator user, not of the student
+* Add do not review status to essay backups
+* Add extra event types in the user log (Do Not Review, Do Not Review Cleared, )
+* Fix grade adaptive release grade criteria, when no grade is selected
+
 ### 3800.210120.0
 * Make the different settings in the info block clickable, improve spacing and introduce colored parentheses
 * Input fields can be added to the pledge
