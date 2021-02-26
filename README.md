@@ -13,6 +13,17 @@ In order to use this building block you require a license key. Contact nestorsup
 ## Release Notes
 
 
+### 3800.210226.2
+* Add filter option in grading
+* Fix tooltips for Firefox in grading
+
+### 3800.210226.0
+* IOS-539 Fix displaying of photo
+* Renew grading, review, basic editor and printing module
+* IOS-173 Add score filter in grading
+* IOS-536 After changing backup indexing reverting backup would revert to the wrong backup
+* IOS-155 Add due date to essay assignments to prevent students submitting the assignment during review
+* Student sets used by question flow are unavailable by default
 
 ### 3800.210202.0
 * Show time of pledge
