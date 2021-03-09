@@ -12,6 +12,10 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3800.210309.0
+* Introduce new privilege to allow users to restore an exam backup
+* Rename privileges used in the Building Block
+
 ### 3800.210304.0 
 (This is a pre-release)
 * Rework exam backups, introduce new unified backup system where backups are placed at exam closing and at reviews.
