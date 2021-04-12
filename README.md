@@ -12,6 +12,24 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3800.210412.0
+* Improve texts of receipts
+* Grading: Fix width of total score label
+* Improve UI of the snippet editor
+* Prevent collapse of balloon when editing large feedback texts
+* Introduce property, to enable grading and reviewing of Blackboard tests (Experimental)
+* Grading: Add icon to indicate header cell has a drop down 
+* Grading: styling improvements
+* Improve styling of the basic editor
+* Do not apply grading styles in the print
+* [IOS-565](https://nestorsupport.atlassian.net/browse/IOS-565) Improve wording in question flow
+* [IOS-569](https://nestorsupport.atlassian.net/browse/IOS-569) Close exam will also close blackboard tests
+* [IOS-567](https://nestorsupport.atlassian.net/browse/IOS-567) Remove adaptive release from folder context menu (use advanced adaptive release instead)* Include stacktraces in the export log
+* Do not create course backup folder when only looking at the backups
+* Improve layout of snippet edit dialog
+* Grading Fix cells in total column should not be clickable
+* Fix restoring of certain older course exports
+
 ### 3800.210309.0
 * Introduce new privilege to allow users to restore an exam backup
 * Rename privileges used in the Building Block
@@ -20,7 +38,7 @@ In order to use this building block you require a license key. Contact nestorsup
 (This is a pre-release)
 * Rework exam backups, introduce new unified backup system where backups are placed at exam closing and at reviews.
 * Also show possible points for assignments and tests for students
-* IOS-568 Show manage attempts for assignments
+* [IOS-568](https://nestorsupport.atlassian.net/browse/IOS-568) Show manage attempts for assignments
 * Disable steganography
 
 ### 3800.210226.2
@@ -28,11 +46,11 @@ In order to use this building block you require a license key. Contact nestorsup
 * Fix tooltips for Firefox in grading
 
 ### 3800.210226.0
-* IOS-539 Fix displaying of photo
+* [IOS-539](https://nestorsupport.atlassian.net/browse/IOS-539) Fix displaying of photo
 * Renew grading, review, basic editor and printing module
-* IOS-173 Add score filter in grading
-* IOS-536 After changing backup indexing reverting backup would revert to the wrong backup
-* IOS-155 Add due date to essay assignments to prevent students submitting the assignment during review
+* [IOS-173](https://nestorsupport.atlassian.net/browse/IOS-173) Add score filter in grading
+* [IOS-536](https://nestorsupport.atlassian.net/browse/IOS-536) After changing backup indexing reverting backup would revert to the wrong backup
+* [IOS-155](https://nestorsupport.atlassian.net/browse/IOS-155) Add due date to essay assignments to prevent students submitting the assignment during review
 * Student sets used by question flow are unavailable by default
 
 ### 3800.210202.0
@@ -54,15 +72,15 @@ In order to use this building block you require a license key. Contact nestorsup
 * Supporters can use preview user in exams, if they are not enrolled with the associated s-account
 
 ### 3800.201222.0
-* IOS-425 Show announcement like notification for course messages received from instructors
+* [IOS-425](https://nestorsupport.atlassian.net/browse/IOS-425) Show announcement like notification for course messages received from instructors
 
 ### 3800.201216.0
-* IOS-363 Add an info block summarizing the most important settings to the assessment folder
-* IOS-412 Support student pledge
-* IOS-437 Clear ip restrictions during review
+* [IOS-363](https://nestorsupport.atlassian.net/browse/IOS-363) Add an info block summarizing the most important settings to the assessment folder
+* [IOS-412](https://nestorsupport.atlassian.net/browse/IOS-412) Support student pledge
+* [IOS-437](https://nestorsupport.atlassian.net/browse/IOS-437) Clear ip restrictions during review
 
 ### 3800.201203.0
-* IOS-324 Updating sorting of exams in scheduled exams overview
+* [IOS-324](https://nestorsupport.atlassian.net/browse/IOS-324) Updating sorting of exams in scheduled exams overview
 * Add backups to course archive
 
 ### 3800.201117.0	
@@ -78,18 +96,18 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ### 3800.201022.0
 * No longer auto size columns, required font library is missing
-* IOS-332 - Show locations in SubmissionOverview 
+* [IOS-332](https://nestorsupport.atlassian.net/browse/IOS-332) - Show locations in SubmissionOverview 
 * Improve access error messages
 * Introduce wait page which will be shown if students enter an exam early
 * Mask External IP if not admin
-* IOS-329 Fix several problems with disabled users
+* [IOS-329](https://nestorsupport.atlassian.net/browse/IOS-329) Fix several problems with disabled users
 
 ### 3800.200924.0
-* IOS-290 More robust annotations restoring, disable google translate 
+* [IOS-290](https://nestorsupport.atlassian.net/browse/IOS-290) More robust annotations restoring, disable google translate 
 
 ### 3800.200904.0
-* IOS-250 Access check derives course_id from the content supplied by the content_id parameter, fixes Urkund assignments in assessment folder
-* IOS-242 Fix linear order to be in folder order instead of alphabetically on group name
+* [IOS-250](https://nestorsupport.atlassian.net/browse/IOS-250) Access check derives course_id from the content supplied by the content_id parameter, fixes Urkund assignments in assessment folder
+* [IOS-242](https://nestorsupport.atlassian.net/browse/IOS-242) Fix linear order to be in folder order instead of alphabetically on group name
 
 ### 3800.200825.0
 * Fix url of viewing attempt from student folder
@@ -101,9 +119,9 @@ In order to use this building block you require a license key. Contact nestorsup
 ### 3800.200804.2
 * Fix permissions to change attempt status
 * Display linear or random mode of a question flow 
-* IOS-114 Add download buttons in manage submissions page
-* IOS-177 Add Open Exam Options Screen
-* IOS-150 Apply max image size
+* [IOS-114](https://nestorsupport.atlassian.net/browse/IOS-114) Add download buttons in manage submissions page
+* [IOS-177](https://nestorsupport.atlassian.net/browse/IOS-177) Add Open Exam Options Screen
+* [IOS-150](https://nestorsupport.atlassian.net/browse/IOS-150) Apply max image size
 
 ### 3800.200716.0
 * Implement extra properties for score and max points
