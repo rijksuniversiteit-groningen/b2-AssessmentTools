@@ -12,6 +12,16 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
+### 3800.210419.0
+* Fix error when submitting the student pledge multiple times
+* Fix error when printing essay assignments
+* Fix overlapping feedback balloons in grading
+* Drop down glyph in grading matrix is clickable
+* Improve styling of the basic editor
+* Improve error message auto save
+* Fix restoring course from course backup page
+
+
 ### 3800.210412.0
 * Improve texts of receipts
 * Grading: Fix width of total score label
